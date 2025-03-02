@@ -1,1 +1,1 @@
-Numerical_integraion
+Numerical integration
